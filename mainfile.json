@@ -1,0 +1,15 @@
+{
+    "name": "name_my_star",
+    "version": "1.0.0",
+    "description": "Name a star ",
+    "main": "MusicStore.js",
+    "scripts": {
+        "start": "nodemon MusicStore.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.2"
+    }
+}
